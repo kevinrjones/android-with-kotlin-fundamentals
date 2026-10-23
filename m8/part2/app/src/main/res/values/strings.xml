@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Daily Tasks</string>
+    <string name="home_title">Daily Tasks</string>
+    <string name="home_calendar_description">Task calendar illustration</string>
+    <string name="task_title_label">Task title</string>
+    <string name="add_task">Add</string>
+    <string name="empty_tasks">No tasks yet</string>
+    <string name="no_details">No additional details</string>
+    <string name="home_subtitle">Small steps for today</string>
+    <string name="task_title_hint">What needs doing?</string>
+    <string name="delete_task">Delete Task</string>
+    <string name="mark_task_complete">Mark %1$s complete</string>
+    <string name="mark_task_open">Mark %1$s open</string>
+    <string name="enter_task_title">Enter a task title</string>
+    <string name="task_added">Added: %1$s</string>
+    <string name="selected_task">Selected: %1$s</string>
+    <string name="open_status">Open</string>
+    <string name="completed_status">Completed</string>
+    <string name="task_detail_title">Task details</string>
+    <string name="no_task_selected">No task selected</string>
+    <string name="filter_all">All</string>
+    <string name="filter_open">Open</string>
+    <string name="filter_completed">Completed</string>
+    <string name="no_open_tasks">No open tasks</string>
+    <string name="no_completed_tasks">No completed tasks</string>
+</resources>

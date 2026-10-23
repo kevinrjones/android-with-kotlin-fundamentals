@@ -1,0 +1,10 @@
+<resources>
+    <string name="home_title">Tareas diarias</string>
+    <string name="home_subtitle">Pequeños pasos para hoy</string>
+    <string name="task_title_label">Título de la tarea</string>
+    <string name="task_title_hint">¿Qué hay que hacer?</string>
+    <string name="add_task">Añadir tarea</string>
+    <string name="empty_tasks">No hay tareas</string>
+    <string name="no_details">Sin detalles adicionales</string>
+    <string name="home_calendar_description">Ilustración de un calendario de tareas</string>
+</resources>
